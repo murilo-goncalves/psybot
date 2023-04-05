@@ -1,2 +1,2 @@
 # psybot
-nutz
+download SICK tracks from yt
